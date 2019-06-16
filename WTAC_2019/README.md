@@ -7,6 +7,8 @@
 
 
 ## Basecalling with Guppy
+Short Tutorial
+![alt text](https://github.com/abayega/Courses-and-Practicals/blob/master/WTAC_2019/Summary%20on%20ONT%20Basecalling.pdf)
 
 #### Run Guppy on Linux
 
