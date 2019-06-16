@@ -1,4 +1,4 @@
-# WTAC_Transcriptomics_2019
+# WTAC Transcriptomics 2019
 
 ![alt text](https://github.com/abayega/Courses-and-Practicals/blob/master/WTAC_2019/images/mcgill%20logo.png)
 
