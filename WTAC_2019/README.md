@@ -54,6 +54,8 @@ take the files that contain  either the  sence or antisense reads that have adap
 ```
 cat primer_chop_output/good-fwd.fa primer_chop_output/good-rev.fa >adapter_removed_full_length_above_q8_pass_reads.fa
 ```
+
+## De novo genome guided transcriptome assembly
 ```
 PATH="$PATH:/home/wtac/Desktop/new_approach/BBMap_38.50b/bbmap/"
 reformat.sh in=adapter_removed_full_length_above_q8_pass_reads.fa out=adapter_removed_full_length_above_q8_pass_reads.fastq qfake=12
@@ -66,8 +68,6 @@ PATH="$PATH:/home/wtac/Desktop/new_approach/s1_WT/minimap2-2.17_x64-linux"
 cd pipeline_pinfish_analysis_folder #GO INTO THIS FOLDER
 snakemake --use-conda -j 1 all
 ```
-
-## De novo genome guided transcriptome assembly
 
 ## Gene expression counts
 
