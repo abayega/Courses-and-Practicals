@@ -22,12 +22,16 @@
 
 
 #Initially we will start with the sequencing run statistics derived from the summary file or from the fastq file
-
+```
 cd summary_file_folder #go inside the "summary file" folder and process the "sequencing_summary.txt" file
+```
 #The output will be inside the "nanoplot_of_summary_file" folder  
+```
 NanoPlot -o nanoplot_of_summary_file --readtype 1D --summary sequencing_summary.txt --loglength
+```
+```
 cd ..
-
+```
 or
 cd sequenced_files #go inside the "sequenced_files" folder and process the "ass_reads.fastq" file
 #The output will be inside the "nanoplot_of_the_original_fastq_file" folder 
