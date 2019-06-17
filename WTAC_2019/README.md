@@ -1,4 +1,4 @@
-# WTAC Transcriptomics 2019
+# RNA Transcriptomics
 18-29th June 2019, Wellcome Genome Campus, Hinxton, Cambridge, CB10 1RQ
 
 ![alt text](https://github.com/abayega/Courses-and-Practicals/blob/master/WTAC_2019/images/mcgill%20logo.png)
